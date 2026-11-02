@@ -7,17 +7,17 @@ Socials
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/clyde.prado.777" target="_blank">
-    <img src="https://shields.io" alt="Facebook">
+    <img src="https://github.com/cjscottprado-ctrl/cjscottprado-ctrl/blob/6cf8d8980610cbb5eb69c525d13559a3f482c6b5/fblogo.webp" width="50" height="50" alt="Facebook">
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/clydieeprado/" target="_blank">
-    <img src="https://shields.io" alt="Instagram">
+    <img src="https://github.com/cjscottprado-ctrl/cjscottprado-ctrl/blob/6cf8d8980610cbb5eb69c525d13559a3f482c6b5/ig%20logo.svg" width="50" height="50" alt="Instagram">
   </a>
 
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@clydieeprado?lang=en" target="_blank">
-    <img src="https://shields.io" alt="TikTok">
+    <img src="https://github.com/cjscottprado-ctrl/cjscottprado-ctrl/blob/6cf8d8980610cbb5eb69c525d13559a3f482c6b5/tik-tok-logo-png-80f7.png" width="50" height="50" alt="TikTok">
   </a>
   
 </div>
