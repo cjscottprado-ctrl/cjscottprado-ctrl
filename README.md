@@ -1,22 +1,7 @@
-## Hi there 👋 its me clytde gwapo
-<div style="background-image: url('https://github.com/cjscottprado-ctrl/cjscottprado-ctrl/blob/d1249a72de679b2acd7dd57b6fba7907b9dcb215/thumb-1920-1403953.png'); background-size: cover; padding: 20px;">
-  <h2>Your Title Here</h2>
-  <p>Your text content over the background...</p>
-</div>
+## Hi there! It's your boy Clyde gwapo
 
+<img src="https://github.com/cjscottprado-ctrl/cjscottprado-ctrl/blob/d1249a72de679b2acd7dd57b6fba7907b9dcb215/thumb-1920-1403953.png" width="100%" alt="Banner">
 
+### Clyde
+Never say never
 
-<!-
-**cjscottprado-ctrl/cjscottprado-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
