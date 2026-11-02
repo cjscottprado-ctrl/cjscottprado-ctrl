@@ -1,4 +1,4 @@
-## Hi there! It's your boy Clyde gwapo
+## 👋 Hello, I'm a BSCS Student!
 
 <img src="https://github.com/cjscottprado-ctrl/cjscottprado-ctrl/blob/d1249a72de679b2acd7dd57b6fba7907b9dcb215/thumb-1920-1403953.png" width="100%" alt="Banner">
 
@@ -22,6 +22,26 @@ Socials
   
 </div>
 
-### Clyde
+## 🎓 About Me
+
+3rd-Year BSCS Student at Data Center College of Bangued, Abra.
+Passionate about technology and continuously learning new things.
+## 🏀 Hobbies & Interests
+
+ 🏀 Playing Basketball
+ 
+ 🎤 Singing
+ 
+ 🎸 Playing the Guitar
+ 
+ 🎮 Gaming
+ 
+ 🏍️ Working on my motorcycles — installing parts, cleaning, and maintenance.
+ 
+ 🚗 Driving my car and enjoying weekly trips.
+ 
+ 💻 My Goal
+
+To improve my programming skills, explore new technologies, and grow as a future computer science professional.
 Never say never
 
